@@ -35,8 +35,11 @@ Por lo que las principales tecnologías que manejo son:
 Claramente incluyendo **HTML** y **CSS**
 
 
-### No dudes en contactarme! 
-Juntos podemos realizar un gran proyecto que cambie la vida de miles de personas
+ 
+<h3 align="left">No dudes en contactarme!</h3>
+<p align="left">
+<a href="https://linkedin.com/in/jonathan ledezma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jonathan ledezma" height="30" width="40" /></a>
+</p>
 
 [Linkedin](https://www.linkedin.com/in/jonathan-ledezma-a9a7a91b2/)
 
