@@ -28,11 +28,10 @@ Por lo que las principales tecnologías que manejo son:
 
 Claramente incluyendo **HTML** y **CSS**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jotaled&show_icons=true&locale=en&layout=compact" alt="jotaled" /></p>
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JotaLed&hide_border=true&layout=compact" align="center" /></div>  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jotaled&show_icons=true&locale=en" alt="jotaled" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jotaled&" alt="jotaled" /></p>
+<br/>  
 
 
  
