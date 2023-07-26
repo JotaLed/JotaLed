@@ -1,20 +1,43 @@
-<h1 align="center">Hola 👋, Mi nombre es Jonathan Ledezma</h1>
-<h3 align="center">Soy un desarrollador web full stack</h3>
+ # Hola! Mi nombre es Jonathan Ledezma
+ ### También conocido como JotaLed en GitHub 
+ 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jotaled&label=Profile%20views&color=0e75b6&style=flat" alt="jotaled" /> </p>
+## ¿Quién soy? 
+Soy un **Programador _Fullstack_**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jotaled" alt="jotaled" /></a> </p>
+Desde 25 años me ha interesado el mundo de la programación. Mi primer Lenguaje
+fue **JavaScript**. Sin duda una de las experiencias más motivadoras fue mi acercamiento al código.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/jonathan ledezma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jonathan ledezma" height="30" width="40" /></a>
-</p>
+## ¿Qué hago?
+Actualmente me dedico a realizar proyectos que me permiten avanzar en mi formación como 
+programador. **Me fascina poder encontrar la solución a los problemas de la vida con código**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+## ¿A dónde me dirijo?
+Mi objetivo principal es impactar el mundo con código 🎆
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jotaled&show_icons=true&locale=en&layout=compact" alt="jotaled" /></p>
+No solo disfruto de la programacion por la cantidad de demanda que hay en el mercado. Sino que realmente
+me apasiona ampliar mi perspectiva de las cosas que existen en el mundo y encontrar nuevas 
+soluciones a problemas que creíamos ya resueltos.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jotaled&show_icons=true&locale=en" alt="jotaled" /></p>
+## ¿Qué tecnologías uso?
+El Bootcamp de Henry me ha permitido adquirir el conocimiento y experiencia fundamental
+para despegar 🚀 
+Por lo que las principales tecnologías que manejo son: 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jotaled&" alt="jotaled" /></p>
+- **Javascript** 
+- **React.js**
+- **Node.js**
+- **Express.js**
+- **PostgreSQL**
+- **Sequelize**
+- **GIT**
+
+Claramente incluyendo **HTML** y **CSS**
+
+
+### No dudes en contactarme! 
+Juntos podemos realizar un gran proyecto que cambie la vida de miles de personas
+
+[Linkedin](https://www.linkedin.com/in/jonathan-ledezma-a9a7a91b2/)
+
+Correo: jonathanledezma09@gmail.com
