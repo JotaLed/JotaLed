@@ -65,9 +65,6 @@ Por lo que las principales tecnologías que manejo son:
 
 <br/>  
 
-
-## Connect with me  
-
   
 
 <br/>  
