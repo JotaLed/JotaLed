@@ -5,7 +5,7 @@
 ## ¿Quién soy? 
 Soy un **Programador _Fullstack_**
 
-Desde 25 años me ha interesado el mundo de la programación. Mi primer Lenguaje
+Desde los 25 años me ha interesado el mundo de la programación. Mi primer Lenguaje
 fue **JavaScript**. Sin duda una de las experiencias más motivadoras fue mi acercamiento al código.
 
 ## ¿Qué hago?
