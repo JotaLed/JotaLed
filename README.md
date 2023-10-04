@@ -1,4 +1,4 @@
- # Hola! <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>  Me llamo Jonathan Ledezma
+ # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> Hola! Me llamo Jonathan Ledezma
  ### También conocido como JotaLed en GitHub 
  
 
