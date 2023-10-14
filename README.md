@@ -47,3 +47,4 @@ Por lo que las principales tecnologías que manejo son:
 </div>  
 
 Correo: jonathanledezma09@gmail.com
+Portfolio: https://jotaled.onrender.com/
